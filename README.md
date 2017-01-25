@@ -11,8 +11,8 @@ I Implemented a stack-state-based algorithm to find all possible solutions on an
 * 10/6/2014
   * Work in progress
   
-  ## Authors
-  * [**Joseph Harvey Angeles**](https://github.com/josephharveyangeles)
+## Authors
+* [**Joseph Harvey Angeles**](https://github.com/josephharveyangeles)
   
   
 ## License
